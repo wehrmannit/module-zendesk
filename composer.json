@@ -1,5 +1,5 @@
 {
-    "name": "classyllama/module-zendesk",
+    "name": "wehrmannit/module-zendesk",
     "description": "Zendesk extension for Magento 2",
     "type": "magento2-module",
     "version": "1.0.02",
